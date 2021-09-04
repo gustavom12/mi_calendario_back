@@ -1,0 +1,17 @@
+DELETE FROM USUARIOS
+DELETE FROM USUARIOS_TOKEN
+ALTER TABLE USUARIOS AUTO_INCREMENT = 1
+
+
+
+"token" : "token",
+"nombre" : "nombre",
+"apellido" : "apellido",
+"documento" : "documento",
+"telefono" : "telefono",
+"direccion" : "direccion",
+"localidad" : "localidad",
+"provincia" : "provincia",
+"codigo_postal" : "codigo_postal",
+"hash_billetera" : "hash_billetera",
+"RoleId" : "RoleId"

@@ -1,0 +1,10 @@
+ {
+    "conexion":{
+        "server": "localhost",
+        "user" : "c2280675_api",
+        "password" : "biWIga86ke",
+        "database" : "c2280675_api",
+        "port" : "3306",
+        "url" : "http://c2280675.ferozo.com/api/"
+    } 
+}
